@@ -15,13 +15,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <a href="https://portfolio-vivekxsh.netlify.app/" target="_blank">
-    <img src="https://s.wordpress.com/mshots/v1/https://portfolio-vivekxsh.netlify.app?w=1200" alt="Vivek's Portfolio Preview" width="800" />
-  </a>
-</p>
 
 ---
 
